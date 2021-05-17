@@ -1,0 +1,53 @@
+.header {
+	margin-bottom: 60px;
+
+	.profile {
+		text-align: center;
+		margin-bottom: 25px;
+
+		img {
+			width: 156px;
+			border-radius: 10px;
+		}
+
+		p {
+			font-size: 24px;
+			color: #4e5150;
+		}
+
+		span {
+			font-size: 14px;
+			color: #a9a9a9;
+		}
+	}
+
+	main {
+		display: flex;
+		width: 100%;
+		justify-content: center;
+
+		div:nth-child(2) {
+			margin: 0 30px;
+		}
+
+		.box {
+			width: 100px;
+			height: 67px;
+			border-radius: 12px;
+			background: #e5e5e5;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+
+			p {
+				font-weight: bold;
+			}
+
+			span {
+				font-size: 14px;
+				color: #bdbdbb;
+			}
+		}
+	}
+}

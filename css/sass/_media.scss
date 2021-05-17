@@ -1,0 +1,26 @@
+@media all and (max-width: 1600px) {
+	.wrap {
+		width: 60%;
+	}
+}
+
+@media all and (max-width: 900px) {
+	.wrap {
+		width: 90%;
+	}
+
+	.gallery {
+		grid-gap: 20px;
+	}
+}
+
+@media all and (max-width: 665px) {
+	.gallery {
+		grid-gap: 10px;
+	}
+
+	.wrap {
+		width: 100%;
+		margin: 0;
+	}
+}
