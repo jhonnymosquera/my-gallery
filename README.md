@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/jhonnymosquera/my-gallery/main/screenshot.PNG)
+![screenshot](https://github.com/jhonnymosquera/my-gallery/blob/main/screenshot.PNG)
 
 ### Built With
 
