@@ -30,7 +30,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/jhonnymosquera/recipe-page/blob/main/screenshot.PNG)
+![screenshot](https://github.com/jhonnymosquera/my-gallery/screenshot.PNG)
 
 ### Built With
 
